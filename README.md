@@ -1,8 +1,6 @@
 # Image_Operation_Using_OpenCV
 # Summer - Task 04 👨🏻‍💻 
 
-# ⚜️ Team Task
-
 # Task Description 📄
 
 # 🔅 Task 4.1
